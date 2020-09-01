@@ -1,0 +1,7 @@
+time="2020-09-01T21:08:21+08:00" level=info clientIp="::1" dataSize=61 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="14.000000 ms" userAgent=PostmanRuntime/7.26.3
+me="2020-09-01T18:01:34+08:00" level=info clientIp="::1" dataSize=60 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="0.000000 ms" userAgent=PostmanRuntime/7.26.3
+time="2020-09-01T18:02:03+08:00" level=info clientIp="::1" dataSize=60 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="0.000000 ms" userAgent=PostmanRuntime/7.26.3
+time="2020-09-01T18:03:00+08:00" level=info clientIp="::1" dataSize=40 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="0.000000 ms" userAgent=PostmanRuntime/7.26.3
+time="2020-09-01T18:03:48+08:00" level=info clientIp="::1" dataSize=47 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="0.000000 ms" userAgent=PostmanRuntime/7.26.3
+time="2020-09-01T18:04:05+08:00" level=info clientIp="::1" dataSize=210 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="6514.000000 ms" userAgent=PostmanRuntime/7.26.3
+time="2020-09-01T20:56:54+08:00" level=info clientIp="::1" dataSize=60 host="localhost:3000" method=POST path=/api/v1/user/add statusCode=200 timeCosted="0.000000 ms" userAgent=PostmanRuntime/7.26.3
